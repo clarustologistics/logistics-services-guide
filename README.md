@@ -1,6 +1,8 @@
 # logistics-services-guide
 Expert insights on logistics services, freight forwarding, warehousing and supply chain management.
+
 Logistics Services Guide
+
 What Are Logistics Services?
 
 Logistics services involve the planning, execution and management of the movement of goods from origin to destination. Businesses rely on logistics providers to manage transportation, warehousing, inventory control and distribution efficiently.
